@@ -263,7 +263,8 @@
 .play-btn {
     border: none;
     border-radius: 10px;
-    background: none;
+    background: var(--element-color);
+    background-color: #4bdaa7 ;
     color: var(--color);
     font-size: 2rem;
     font-weight: bolder;
