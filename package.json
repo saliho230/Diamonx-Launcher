@@ -1,6 +1,6 @@
 {
-    "name": "Diamonx Launcher",
-    "preductname": "Diamonx Launcher",
+    "name": "Diamonx-Launcher",
+    "preductname": "Diamonx-Launcher",
     "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Diamonx",
     "main": "src/app.js",
