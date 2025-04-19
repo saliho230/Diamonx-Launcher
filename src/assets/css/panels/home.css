@@ -254,9 +254,9 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
-    border: solid 3px var(--element-color);
+    border: solid 3px rgb(97, 238, 97);
     border-radius: 15px;
-    height: 3.2rem;
+    height: 2.9rem;
     padding-right: 1.9rem;
 }
 
